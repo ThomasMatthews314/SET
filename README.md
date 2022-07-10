@@ -1,2 +1,2 @@
 # SET
-Code and files relating to the card game SET. 
+Code and files relating to the card game SET. SETpython_clean.py is the file that contains the game code, with a user input to select certain options on how the game is played. Enddecks.csv is a selection of preloaded decks in a csv file, all of which are able to be completed. SETdata is a separate program that takes the data saved after running SETpython_clean.py and performs various analyses. 
